@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 🔭 i like to read books, code and watch comedies
 - 🌱 i’m currently learning Blender and threeJS
 - 😄 pronouns: she/her
-
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gjeev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeevikagopal@gmail.com)
 [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/154771311-jem)
